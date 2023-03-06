@@ -16,27 +16,33 @@ E-post: /QingEn/ \[@\] cunet \[DOT\] carleton \[DOT\] ca
 ~~~
 
 == About me
-I received the M.Sc. and PhD degrees under the supervision of [Prof.Lijuan Duan] in computer science and technology from Beijing University of Technology, Beijing, in 2017 and 2021, respectively.
-From 2017 to 2021, I interned at the Institute of Automation, Chinese Academy of Sciences under the supervision of [https://zhaoxiangzhang.net Prof.Zhaoxiang Zhang]. 
-From October 2019 to April 2020, I interned at MMLab, Chinese University of Hong Kong as an Research Assistant under the supervision of [https://wlouyang.github.io Prof.Wanli Ouyang].
-Currently, I work as a Postdoctoral Fellow at Artificial Intelligence and Machine Learning Lab, Carleton University under the supervision of [http://people.scs.carleton.ca/~yuhongguo/index.html Prof.Yuhong Guo].
-My research interests include computer vision, video object segmentation, medical iamge segmentation and weakly supervised learning.
+I received my M.Sc. and Ph.D. degrees under the supervision of Prof.Lijuan Duan in computer science and technology from Beijing University of Technology, Beijing, in 2017 and 2021, respectively.
+From 2017 to 2021, I interned at the Institute of Automation, Chinese Academy of Sciences, under the supervision of [https://zhaoxiangzhang.net Prof.Zhaoxiang Zhang]. 
+From October 2019 to April 2020, I interned at MMLab, Chinese University of Hong Kong, as a Research Assistant under the supervision of [https://wlouyang.github.io Prof.Wanli Ouyang].
+Currently, I am working as a Postdoctoral Fellow at the Artificial Intelligence and Machine Learning Lab at Carleton University under the supervision of [http://people.scs.carleton.ca/~yuhongguo/index.html Prof.Yuhong Guo]. \n
+#My research interests include computer vision, video object segmentation, medical image segmentation and weakly supervised learning.
 
-#== Research
-#My research interests include 
-#- Computer vision
-#- Distributed Algorithms
-#- Real-time Sensor Networking
-#- Wireless Networks
-#- Machine Learning
+== Research
+My research interests include 
+- Computer Vision
+- Exemplar Learning
+- Medical Image segmentation 
+- Video Object Segmentation
+- Weakly Supervised Learning
 
 #[research.html Find out more].
 == News
-. E. Ghadimi, H. R. Feyzmahdavian, and M. Johansson, \"Global convergence of the heavy-ball method for convex optimization\",  In ECC'15: European Control Conference, 2015.
-. E. Ghadimi, A. Teixeira, I. Shames, and M. Johansson \" Optimal parameter selection for the alternating direction method of
-multipliers (ADMM): quadratic problems \", IEEE Transactions on Automatic Control, 2015. \[[http://arxiv.org/abs/1306.2454 arxiv]\]
-. E. Ghadimi, A. Teixeira, M. Rabbat, and M. Johansson, \"The ADMM algorithm for distributed averaging: Convergence rates and optimal parameter selection\", In Proceedings of the 48th Asilomar Conference on Signals, Systems and Computers, 2014. \[[https://www.dropbox.com/s/k9izxz1m39yvvuz/admm_distributed_aveg.pdf?dl=0 pdf] \]
-. E. Ghadimi, O. Landsiedel, P. Soldati, S. Duquennoy, and M. Johansson, \"Opportunistic Routing in Low Duty-Cycle Wireless Sensor Networks\", ACM Transactions on Senor Networks, 2014. \[[pub/oppTOSN.pdf pdf]\]
+. \[Feb 2023 \] One of our paper was accepted in CVPR\'2023
+. \[Sep 2022 \] One of our paper was accepted in BMVC\'2022
+. \[Feb 2022 \] One of our paper was accepted in CVPR\'2022
+. \[Agu 2021 \] One of our paper was accepted in IEEE Transactions on Image Processing
+
+
+#. E. Ghadimi, H. R. Feyzmahdavian, and M. Johansson, \"Global convergence of the heavy-ball method for convex optimization\",  In ECC'15: European Control Conference, 2015.
+#. E. Ghadimi, A. Teixeira, I. Shames, and M. Johansson \" Optimal parameter selection for the alternating direction method of
+#multipliers (ADMM): quadratic problems \", IEEE Transactions on Automatic Control, 2015. \[[http://arxiv.org/abs/1306.2454 arxiv]\]
+#. E. Ghadimi, A. Teixeira, M. Rabbat, and M. Johansson, \"The ADMM algorithm for distributed averaging: Convergence rates and optimal parameter selection\", In Proceedings of the 48th Asilomar Conference on Signals, Systems and Computers, 2014. \[[https://www.dropbox.com/s/k9izxz1m39yvvuz/admm_distributed_aveg.pdf?dl=0 pdf] \]
+#. E. Ghadimi, O. Landsiedel, P. Soldati, S. Duquennoy, and M. Johansson, \"Opportunistic Routing in Low Duty-Cycle Wireless Sensor Networks\", ACM Transactions on Senor Networks, 2014. \[[pub/oppTOSN.pdf pdf]\]
 
 #[publications.html Full list of publications].
 #\n
