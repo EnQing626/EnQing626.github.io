@@ -1,23 +1,45 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter  
 == Publications
-
+==
 Research Profile and Citations (per [https://scholar.google.com/citations?hl=en&user=4tNrFv8AAAAJ&view_op=list_works&sortby=pubdate Google Scholar]) 
-
 == Papers
-- Taoseef Ishtiak, *Qing En*, Yuhong Guo. \"Exemplar-FreeSOLO: Enhancing Unsupervised Instance Segmentation with Exemplars\". IEEE Conference on Computer Vision and Pattern Recognition (*CVPR*), 2023.
-- *Qing En*, Yuhong Guo. \"Exemplar Learning for Medical Image Segmentation\". The 33rd British Machine Vision Conference (*BMVC*), 2022.
-- *Qing En*, Yuhong Guo. \"Annotation by Clicks: A Point-Supervised Contrastive Method for Medical Semantic Segmentation\". *arxiv*, 2022.
+=== Published
+- Taoseef Ishtiak, *Qing En*, Yuhong Guo. 
+\"Exemplar-FreeSOLO: Enhancing Unsupervised Instance Segmentation with Exemplars\". IEEE Conference on Computer Vision and Pattern Recognition (*CVPR*), 2023.
+- *Qing En*, Yuhong Guo. 
+\"Exemplar Learning for Medical Image Segmentation\". The 33rd British Machine Vision Conference (*BMVC*), 2022.
+- *Qing En*, Yuhong Guo. 
+\"Annotation by Clicks: A Point-Supervised Contrastive Method for Medical Semantic Segmentation\". *arxiv*, 2022.
 #. Abdullah Alchihabi, *Qing En*, Yuhong Guo. \"Efficient Low-Rank Defense for GNNs Against Structure Attacks\". Under Review, 2022.
-- Wenjian Wang, Lijuan Duan, Yuxi Wang, *Qing En*, Junsong Fan, Zhaoxiang Zhang. \"Remember the Difference: Cross-Domain Few-Shot Semantic Segmentation via Meta-Memory Transfer\". IEEE Conference on Computer Vision and Pattern Recognition (*CVPR*), 2022.
-- Wenjian Wang, Lijuan Duan, *Qing En*, Baochang Zhang. \"TPSN:Transformer-based multi Prototype Search Network for Few-shot semantic segmentation\". *Computers and Electrical Engineering*, 2022. (IF=4.152)
-- Qichao Sun, *Qing En*, Lijuan Duan, Yuanhua Qiao. “RGB-D Image Semantic Segmentation Based on Multi-modal Adaptive Convolution”. *Journal of Computer-Aided Design & Computer Graphics*, 2022 (in Chinese), 2022.
-- *Qing En*, Lijuan Duan, Zhaoxiang Zhang. \"Joint Multisource-saliency and Exemplar Mechanism for Weakly supervised Video Object Segmentation\". IEEE Transactions on Image Processing (*TIP*), 2021. (IF=11.041)
-- Wenjian Wang, Lijuan Duan, *Qing En*, Baochang Zhang. \"Context-sensitive zero-shot semantic segmentation model based on meta-learning\". *Neurocomputing*, 2021. (IF=5.779)
-- Ying Yuan, Lijuan Duan, Wenjian Wang, *Qing En*. \"TMD-FS: Improving Few-Shot Object Detection with Transformer Multi-modal Directing\". Chinese Conference on Pattern Recognition and Computer Vision (*PRCV*), 2021.
-- *Qing En*, Lijuan Duan, Zhaoxiang Zhang, Xiang Bai, Yundong Zhang. \"Human-like Delicate Region Erasing Strategy for Weakly Supervised Detection\". In Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence (*AAAI*), 2019. *Oral Presentation*.
-- Lijuan Duan, *Qing En*, Yuanhua Qiao, Song Cui, Laiyun Qing. \"Deep feature representation based on privileged knowledge transfer\". Pattern Recognition Letters (*PRL*), 2019. (IF=4.757)
-- Lijuan Duan, Chunli Wu, *Qing En*, Yuanhua Qiao, Yundong Zhang, Juncheng Chen. \"Deep Residual Network In Wavelet Domain For Image Super-Resolution\". *Ruan Jian Xue Bao/Journal of Software*, 2018 (in Chinese).
+- Wenjian Wang, Lijuan Duan, Yuxi Wang, *Qing En*, Junsong Fan, Zhaoxiang Zhang. 
+\"Remember the Difference: Cross-Domain Few-Shot Semantic Segmentation via Meta-Memory Transfer\". IEEE Conference on Computer Vision and Pattern Recognition (*CVPR*), 2022.
+- Wenjian Wang, Lijuan Duan, *Qing En*, Baochang Zhang. 
+\"TPSN:Transformer-based multi Prototype Search Network for Few-shot semantic segmentation\". *Computers and Electrical Engineering*, 2022. (IF=4.152)
+- Qichao Sun, *Qing En*, Lijuan Duan, Yuanhua Qiao. 
+\"RGB-D Image Semantic Segmentation Based on Multi-modal Adaptive Convolution\". *Journal of Computer-Aided Design & Computer Graphics*, 2022 (in Chinese), 2022.
+- *Qing En*, Lijuan Duan, Zhaoxiang Zhang. 
+\"Joint Multisource-saliency and Exemplar Mechanism for Weakly supervised Video Object Segmentation\". IEEE Transactions on Image Processing (*TIP*), 2021. (IF=11.041)
+- Wenjian Wang, Lijuan Duan, *Qing En*, Baochang Zhang. 
+\"Context-sensitive zero-shot semantic segmentation model based on meta-learning\". *Neurocomputing*, 2021. (IF=5.779)
+- Ying Yuan, Lijuan Duan, Wenjian Wang, *Qing En*. 
+\"TMD-FS: Improving Few-Shot Object Detection with Transformer Multi-modal Directing\". Chinese Conference on Pattern Recognition and Computer Vision (*PRCV*), 2021.
+- *Qing En*, Lijuan Duan, Zhaoxiang Zhang, Xiang Bai, Yundong Zhang. 
+\"Human-like Delicate Region Erasing Strategy for Weakly Supervised Detection\". In Proceedings of the Thirty-Third AAAI Conference on Artificial Intelligence (*AAAI*), 2019. *Oral Presentation*.
+- Lijuan Duan, *Qing En*, Yuanhua Qiao, Song Cui, Laiyun Qing. 
+\"Deep feature representation based on privileged knowledge transfer\". Pattern Recognition Letters (*PRL*), 2019. (IF=4.757)
+- Lijuan Duan, Chunli Wu, *Qing En*, Yuanhua Qiao, Yundong Zhang, Juncheng Chen. 
+\"Deep Residual Network In Wavelet Domain For Image Super-Resolution\". *Ruan Jian Xue Bao/Journal of Software*, 2018 (in Chinese).
 - Yanan Guo, Wei Ma, Lijuan Duan, *Qing En*, Juncheng Chen. \"Human action recognition based on discriminative supervoxels\". International Joint Conference on Neural Networks (*IJCNN*), 2016.
+=== Under Review
+- *Qing En*, Lijuan Duan, Zhaoxiang Zhang, Lei Bai, Wanli Ouyang. 
+\"Mask-Guided Feature Purification for Object Segmentation\". 
+- *Qing En*, Lijuan Duan, Zhaoxiang Zhang. 
+\"Unsupervised Video Object Segmentation with Dynamic Global-Local Memory Network\".
+- Abdullah Alchihabi, *Qing En*, Yuhong Guo. 
+\"Efficient Low-Rank Defense for GNNs Against Structure Attacks\". 
+- Marzi Heidari, Abdullah Alchihabi, *Qing En*, Yuhong Guo. 
+\"Adaptive Parametric Prototype Learning for Cross-Domain Few-Shot Classification\".
 
 == Patents
-- Lijuan Duan, *Qing En*, Jun Miao. \"Neural network feature learning method based on Autoencoder\". Patent No. 201710271606.2 (First student author).
+- Lijuan Duan, *Qing En*, Jun Miao. \"Neural network feature learning method based on Autoencoder\". Patent No. 201710271606.2
+
