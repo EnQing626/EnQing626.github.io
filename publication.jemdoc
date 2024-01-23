@@ -4,13 +4,18 @@
 Research Profile and Citations (per [https://scholar.google.com/citations?hl=en&user=4tNrFv8AAAAJ&view_op=list_works&sortby=pubdate Google Scholar]) 
 == Papers
 === Published
+- *Qing En*, Yuhong Guo. 
+\"Cross-model Mutual Learning for Exemplar-based Medical Image Segmentation\". The 27th International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2024.
+- Marzi Heidari, Abdullah Alchihabi, *Qing En*, Yuhong Guo. 
+\"Adaptive Parametric Prototype Learning for Cross-Domain Few-Shot Classification\". The 27th International Conference on Artificial Intelligence and Statistics (*AISTATS*), 2024.
+- Abdullah Alchihabi, *Qing En*, Yuhong Guo. 
+\"Efficient Low-Rank Defense for GNNs Against Structure Attacks\". IEEE International Conference On Knowledge Graph (*ICKG*), 2023.
 - Taoseef Ishtiak, *Qing En*, Yuhong Guo. 
 \"Exemplar-FreeSOLO: Enhancing Unsupervised Instance Segmentation with Exemplars\". IEEE Conference on Computer Vision and Pattern Recognition (*CVPR*), 2023.
 - *Qing En*, Yuhong Guo. 
 \"Exemplar Learning for Medical Image Segmentation\". The 33rd British Machine Vision Conference (*BMVC*), 2022.
 - *Qing En*, Yuhong Guo. 
 \"Annotation by Clicks: A Point-Supervised Contrastive Method for Medical Semantic Segmentation\". *arxiv*, 2022.
-#. Abdullah Alchihabi, *Qing En*, Yuhong Guo. \"Efficient Low-Rank Defense for GNNs Against Structure Attacks\". Under Review, 2022.
 - Wenjian Wang, Lijuan Duan, Yuxi Wang, *Qing En*, Junsong Fan, Zhaoxiang Zhang. 
 \"Remember the Difference: Cross-Domain Few-Shot Semantic Segmentation via Meta-Memory Transfer\". IEEE Conference on Computer Vision and Pattern Recognition (*CVPR*), 2022.
 - Wenjian Wang, Lijuan Duan, *Qing En*, Baochang Zhang. 
@@ -35,10 +40,6 @@ Research Profile and Citations (per [https://scholar.google.com/citations?hl=en&
 \"Mask-Guided Feature Purification for Object Segmentation\". 
 - *Qing En*, Lijuan Duan, Zhaoxiang Zhang. 
 \"Unsupervised Video Object Segmentation with Dynamic Global-Local Memory Network\".
-- Abdullah Alchihabi, *Qing En*, Yuhong Guo. 
-\"Efficient Low-Rank Defense for GNNs Against Structure Attacks\". 
-- Marzi Heidari, Abdullah Alchihabi, *Qing En*, Yuhong Guo. 
-\"Adaptive Parametric Prototype Learning for Cross-Domain Few-Shot Classification\".
 
 == Patents
 - Lijuan Duan, *Qing En*, Jun Miao. \"Neural network feature learning method based on Autoencoder\". Patent No. 201710271606.2
