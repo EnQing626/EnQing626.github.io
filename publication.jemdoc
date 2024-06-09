@@ -4,6 +4,8 @@
 Research Profile and Citations (per [https://scholar.google.com/citations?hl=en&user=4tNrFv8AAAAJ&view_op=list_works&sortby=pubdate Google Scholar]) 
 == Papers
 === Published
+- *Qing En*, Yuhong Guo.
+\"AKGNet: Attribute Knowledge-Guided Unsupervised Lung-Infected Area Segmentation\". European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (*ECML PKDD*), 2024.
 - *Qing En*, Yuhong Guo. 
 \"Unsupervised Domain Adaptation for Medical Image Segmentation with Dynamic Prototype-based Contrastive Learning\". The AHLI Conference on Health, Inference, and Learning (*CHIL*), 2024.
 - *Qing En*, Yuhong Guo. 
@@ -42,8 +44,6 @@ Research Profile and Citations (per [https://scholar.google.com/citations?hl=en&
 \"Mask-Guided Feature Purification for Object Segmentation\". 
 - *Qing En*, Lijuan Duan, Zhaoxiang Zhang. 
 \"Unsupervised Video Object Segmentation with Dynamic Global-Local Memory Network\".
-- *Qing En*, Yuhong Guo.
-\"AKGNet: Attribute Knowledge-Guided Unsupervised Lung-Infected Area Segmentation\".
 
 == Patents
 - Lijuan Duan, *Qing En*, Jun Miao. \"Neural network feature learning method based on Autoencoder\". Patent No. 201710271606.2
