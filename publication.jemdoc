@@ -4,16 +4,17 @@
 Research Profile and Citations (per [https://scholar.google.com/citations?hl=en&user=4tNrFv8AAAAJ&view_op=list_works&sortby=pubdate Google Scholar]) 
 == Papers
 === Published
-\"HDFA-Net: A high-dimensional decoupled frequency attention network for steel surface defect detection\". *Measurement*, 2025. (IF=5.2)
 - Fangfang Liang, Zhaoyang Wang, Wei Ma, Bo Liu, *Qing En*, Dong Wang, Lijuan Duan. 
-\"Dynamic text prompt joint multimodal features for accurate plant disease image captioning\". *The Visual Computer, 2024. (IF=3.0)
+\"HDFA-Net: A high-dimensional decoupled frequency attention network for steel surface defect detection\". *Measurement*, 2025. (IF=5.2)
 - Fangfang Liang, Zilong Huang, Wenjian Wang, Zhenxue He, *Qing En(Corresponding Author)*.
-\"Annotation by Clicks: A Point-Supervised Contrastive Method for Medical Semantic Segmentation\". The 35rd British Machine Vision Conference (*BMVC*), 2024.
+\"Dynamic text prompt joint multimodal features for accurate plant disease image captioning\". *The Visual Computer*, 2024. (IF=3.0)
 - *Qing En*, Yuhong Guo.
-\"Multi-prototype Co-saliency Model for Plant Disease Detection\". Chinese Conference on Pattern Recognition and Computer Vision (*PRCV*), 2024.
+\"Annotation by Clicks: A Point-Supervised Contrastive Method for Medical Semantic Segmentation\". The 35rd British Machine Vision Conference (*BMVC*), 2024.
 - Fangfang Liang, Ye Zhang, Xiaodan Zhang, *Qing En(Corresponding Author)*.
-\"Enhancing zero-shot object detection with external knowledge-guided robust contrast learning\". Pattern Recognition Letters (*PRL*), 2024. (IF=3.9)
+\"Multi-prototype Co-saliency Model for Plant Disease Detection\". Chinese Conference on Pattern Recognition and Computer Vision (*PRCV*), 2024.
 - Lijuan Duan, Guangyuan Liu, *Qing En*, Zhaoying Liu, Zhi Gong, Bian Ma. 
+\"Enhancing zero-shot object detection with external knowledge-guided robust contrast learning\". Pattern Recognition Letters (*PRL*), 2024. (IF=3.9)
+- *Qing En*, Yuhong Guo. 
 \"AKGNet: Attribute Knowledge-Guided Unsupervised Lung-Infected Area Segmentation\". European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (*ECML PKDD*), 2024.
 - *Qing En*, Yuhong Guo. 
 \"Unsupervised Domain Adaptation for Medical Image Segmentation with Dynamic Prototype-based Contrastive Learning\". The AHLI Conference on Health, Inference, and Learning (*CHIL*), 2024.
